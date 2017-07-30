@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1453573194 source:c:\users\asus\desktop\white multi\project\check.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453573194 source:c:\users\asus\desktop\white multi\project\func.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453573194 source:c:\users\asus\desktop\white multi\project\global.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1453499344 source:c:\users\asus\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1453450279 source:c:\users\asus\desktop\project\func.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453442975 source:c:\users\asus\desktop\project\global.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453502107 source:c:\users\asus\desktop\project\check.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453572950 source:c:\users\asus\desktop\project\check1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453572953 source:c:\users\asus\desktop\project\func1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453572955 source:c:\users\asus\desktop\project\global1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1453572658 source:c:\users\asus\desktop\project\main1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
